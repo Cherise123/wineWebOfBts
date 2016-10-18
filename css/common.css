@@ -1,0 +1,64 @@
+/* 公共部分样式 */
+h4 {
+	font-size: 22px;
+}
+textarea {
+	resize: none;
+	min-height: 150px;
+}
+.prl0 {
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+.pl0 {
+	padding-left: 0 !important;
+}
+.pr0 {
+	padding-right: 0 !important;
+}
+.p0 {
+	padding: 0 !important;
+}
+.pt0 {
+	padding-top: 0;
+}
+.pb0 {
+	padding-bottom: 0;
+}
+.brown-bottom-border {
+	border-bottom: 10px solid #b5896c !important;
+}
+.brown-txt {
+	color: #b5896c;
+}
+.mag-row {
+	margin-bottom: 40px;
+}
+.mag-common-row {
+	margin-bottom: 20px;
+}
+.mag-container {
+	min-height: 820px;
+	margin-top: 50px;
+	padding-top: 30px;
+}
+
+.mag-img-row .row{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+/* 第二种导航样式 */
+.mag-nav li > a{
+	color: #333;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+/* footer部分 */
+.footer {
+	background: #222;
+	min-height: 80px;
+	height: 80px;
+	overflow: hidden;
+    line-height: 80px;
+}
